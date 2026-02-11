@@ -1,0 +1,3 @@
+- Write commit messages in present tense
+- Write tests before implementation (TDD)
+- Follow existing code style

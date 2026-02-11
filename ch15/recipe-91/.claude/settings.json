@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Did the user's task involve writing or modifying code? If yes and no quality check was run, return {\"ok\": false, \"reason\": \"Run /quality-gate before finishing.\"}. Otherwise return {\"ok\": true}. Input: $ARGUMENTS"
+          }
+        ]
+      }
+    ]
+  }
+}

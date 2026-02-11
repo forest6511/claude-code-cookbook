@@ -1,0 +1,38 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Evaluate if this file write follows architecture rules: 1) Layered architecture under src/ (controller/service/repo), 2) No circular deps, 3) No business logic in controllers. Input: $ARGUMENTS. Return {\"ok\": true} or {\"ok\": false, \"reason\": \"...\"}.",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "agent",
+            "prompt": "Verify that new functions have tests. Use Glob to find test files, Read to check assertions. $ARGUMENTS",
+            "model": "sonnet",
+            "timeout": 120
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Check if this prompt is: 1) specific, 2) not vague like 'fix everything', 3) not asking to hardcode secrets. Prompt: $ARGUMENTS. Return {\"ok\": true} or {\"ok\": false, \"reason\": \"suggestion\"}."
+          }
+        ]
+      }
+    ]
+  }
+}
