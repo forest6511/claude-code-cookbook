@@ -1,0 +1,7 @@
+rules:
+  - id: hardcoded-api-key
+    pattern: |
+      $KEY = "sk-..."
+    message: "Hardcoded API key detected"
+    severity: ERROR
+    languages: [javascript, typescript, python]

@@ -1,0 +1,17 @@
+{
+  "researcher": {
+    "description": "Investigate codebases",
+    "prompt": "Investigate and report.",
+    "tools": ["Read", "Grep", "Glob"],
+    "model": "haiku"
+  },
+  "implementer": {
+    "description": "Implement code changes",
+    "prompt": "Implement changes, run tests.",
+    "tools": [
+      "Read", "Edit", "Write",
+      "Bash", "Grep", "Glob"
+    ],
+    "model": "sonnet"
+  }
+}

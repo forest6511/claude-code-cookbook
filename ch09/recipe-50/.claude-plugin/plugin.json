@@ -1,0 +1,6 @@
+{
+  "name": "my-team-plugin",
+  "description": "Team standard development tools",
+  "version": "1.0.0",
+  "author": { "name": "Your Team" }
+}
