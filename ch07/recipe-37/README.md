@@ -7,6 +7,7 @@ Your Skills have static instructions. You can't change behavior based on argumen
 - `.claude/skills/fix-issue/SKILL.md` — Simple $ARGUMENTS substitution example
 - `.claude/skills/migrate-component/SKILL.md` — Positional arguments ($0, $1, $2) example
 - `.claude/skills/pr-review/SKILL.md` — Shell command preprocessing with !`command` syntax
+- `.claude/skills/session-logger/SKILL.md` — Session ID substitution (${CLAUDE_SESSION_ID})
 - `.claude/skills/release-notes/SKILL.md` — Combined substitutions ($0 + !`command`)
 
 ## Book Reference

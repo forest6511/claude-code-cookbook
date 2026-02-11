@@ -1,4 +1,4 @@
-# Recipe 50: Package Skills as a Plugin
+# Recipe 50: Namespace Design and Plugin Distribution
 
 As teams share Skills, name collisions become inevitable. Plugins bundle Skills and Hooks into a distributable package with namespace prefixes.
 

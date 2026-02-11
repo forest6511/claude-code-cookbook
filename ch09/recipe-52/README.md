@@ -1,4 +1,4 @@
-# Recipe 52: Manage the Character Budget
+# Recipe 52: Managing the Skill Character Budget
 
 As you add more Skills, some stop appearing in Claude Code's context -- they silently disappear from auto-invocation.
 

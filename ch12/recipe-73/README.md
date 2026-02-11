@@ -1,4 +1,4 @@
-# Recipe 73: Route Agents by Complexity
+# Recipe 73: Routing Pattern — Directing Tasks by Complexity
 
 Using Opus for everything is expensive; using Haiku for everything sacrifices quality. You need to route tasks to the right model based on complexity.
 

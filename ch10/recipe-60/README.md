@@ -1,4 +1,4 @@
-# Recipe 60: Control Agent Permissions
+# Recipe 60: Controlling Agent Permissions with tools/disallowedTools
 
 Giving sub-agents unrestricted tool access risks unintended modifications. You need fine-grained control over what each agent can do.
 

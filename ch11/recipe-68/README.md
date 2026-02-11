@@ -1,4 +1,4 @@
-# Recipe 68: Generate Documentation with Agents
+# Recipe 68: Bulk Documentation Generation
 
 Your codebase lacks documentation, but manually adding it to every file is overwhelming.
 

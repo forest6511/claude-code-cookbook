@@ -1,4 +1,4 @@
-# Recipe 55: Apply the Four Skill Archetypes
+# Recipe 55: Defining Frontmatter Hooks in Skills
 
 You want Hooks that only run during a specific Skill's execution, not globally for the entire session.
 

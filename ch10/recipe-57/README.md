@@ -1,4 +1,4 @@
-# Recipe 57: Understand the Task Tool
+# Recipe 57: Understanding the Task Tool and Independent Context
 
 You don't understand how sub-agents work, how they relate to the main conversation, or when to use them.
 

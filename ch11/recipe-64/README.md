@@ -1,4 +1,4 @@
-# Recipe 64: Chain Agents with Prompts
+# Recipe 64: Prompt Chaining with Intermediate Gates
 
 Multi-step workflows (analyze, plan, implement, verify) need quality checkpoints between steps, but sub-agents can't be nested.
 

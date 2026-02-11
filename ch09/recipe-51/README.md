@@ -1,4 +1,4 @@
-# Recipe 51: Cross-Reference Between Skills
+# Recipe 51: Referencing MCP Server Tools in Skills
 
 You want a Skill to use MCP server tools, but Claude Code can't find the tools or the wrong server responds.
 

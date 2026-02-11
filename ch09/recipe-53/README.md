@@ -1,4 +1,4 @@
-# Recipe 53: Debug Skills That Won't Fire
+# Recipe 53: Debugging Silent Skill Failures
 
 A Skill doesn't trigger, produces unexpected output, or does nothing -- all without an error message.
 

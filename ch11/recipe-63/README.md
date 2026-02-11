@@ -1,4 +1,4 @@
-# Recipe 63: Build a Refactoring Agent
+# Recipe 63: Automating Multi-file Refactoring
 
 Multi-file refactoring done manually leads to missed changes, inconsistencies, and broken tests.
 

@@ -1,4 +1,4 @@
-# Recipe 71: Coordinate via Task Lists
+# Recipe 71: Shared Task Lists and Dependency Management
 
 Coordinating teammate work manually is tedious. Tasks need dependency tracking and automatic sequencing.
 

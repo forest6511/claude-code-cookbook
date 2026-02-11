@@ -1,4 +1,4 @@
-# Recipe 70: Run Parallel Development Sessions
+# Recipe 70: Parallel Frontend + Backend + Test Development
 
 Developing frontend, backend, and tests sequentially in one session is slow. You want all three layers progressing simultaneously.
 

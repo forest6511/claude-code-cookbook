@@ -1,4 +1,4 @@
-# Recipe 69: Enable Agent Teams
+# Recipe 69: Agent Teams Fundamentals — Leader and Teammates
 
 Sub-agents can only report results back to the main conversation. You need agents that communicate with each other, share findings, and coordinate autonomously.
 

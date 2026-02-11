@@ -1,4 +1,4 @@
-# Recipe 67: Analyze Legacy Code with Agents
+# Recipe 67: Legacy Code Analysis and Migration Planning
 
 Understanding a legacy codebase and creating a migration plan manually takes days. You need a systematic, automated approach.
 

@@ -1,4 +1,4 @@
-# Recipe 75: Configure Agent Teams with Flags
+# Recipe 75: Dynamic Agent Definitions with --agents
 
 Creating agent files for one-time tasks is tedious. You need agents defined programmatically for scripts and CI/CD.
 

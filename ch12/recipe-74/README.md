@@ -1,4 +1,4 @@
-# Recipe 74: Run Background Agents
+# Recipe 74: Background Execution and Monitoring
 
 You're blocked waiting for sub-agents or teammates to finish when you could be doing other work.
 

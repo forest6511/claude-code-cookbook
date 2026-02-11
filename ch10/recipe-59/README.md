@@ -1,4 +1,4 @@
-# Recipe 59: Write a Custom Agent Definition
+# Recipe 59: Defining Custom Agents
 
 The built-in sub-agent types don't cover your project-specific needs, and you want specialized agents with tailored prompts and tool access.
 

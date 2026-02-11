@@ -1,4 +1,4 @@
-# Recipe 49: Combine Skills with MCP Servers
+# Recipe 49: Injecting Dynamic Context with Shell Commands
 
 You want deeper control over `!`command`` preprocessing -- error handling, conditional logic, and output management.
 

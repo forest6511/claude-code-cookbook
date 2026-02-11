@@ -1,4 +1,4 @@
-# Recipe 78: Optimize with Model Routing
+# Recipe 78: Cost Optimization Patterns
 
 Claude Code costs add up quickly, especially with Agent Teams. You need strategies to optimize spending without sacrificing quality.
 

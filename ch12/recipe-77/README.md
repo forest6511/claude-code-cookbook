@@ -1,4 +1,4 @@
-# Recipe 77: Build a Full Development Team
+# Recipe 77: Specialist Role Pattern (PM / Architect / Developer / QA)
 
 Having one agent handle requirements, design, implementation, and testing leads to inconsistent quality across phases.
 

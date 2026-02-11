@@ -1,4 +1,4 @@
-# Recipe 66: Set Up Agent Review Workflows
+# Recipe 66: Sub-agent Driven Code Review
 
 You're requesting code reviews manually with different prompts each time, leading to inconsistent coverage.
 

@@ -1,4 +1,4 @@
-# Recipe 48: Boost Skill Activation Rates
+# Recipe 48: Improving Skill Activation Rates
 
 Your Skills work when invoked manually with `/name`, but Claude Code rarely picks them up automatically.
 

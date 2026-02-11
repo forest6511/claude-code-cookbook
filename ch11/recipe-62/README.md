@@ -1,4 +1,4 @@
-# Recipe 62: Build an Investigation Agent
+# Recipe 62: Parallel Investigation of Large Codebases
 
 Investigating a large codebase in a single context is slow and consumes tokens fast.
 

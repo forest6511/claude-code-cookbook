@@ -1,4 +1,4 @@
-# Recipe 72: Isolate with Git Worktrees
+# Recipe 72: Parallel Branch Development with Git Worktrees
 
 Branch switching interrupts your flow. You want multiple features developing simultaneously in separate directories.
 

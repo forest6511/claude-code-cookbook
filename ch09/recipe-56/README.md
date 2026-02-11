@@ -1,4 +1,4 @@
-# Recipe 56: Route Skills to Different Models
+# Recipe 56: Model-Specific Skill Behavior and Testing
 
 A Skill works well with one model but degrades with another -- skipping steps, ignoring format rules, or producing inconsistent output.
 

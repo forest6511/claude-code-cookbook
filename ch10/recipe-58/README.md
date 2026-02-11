@@ -1,4 +1,4 @@
-# Recipe 58: Use Built-In Agent Types
+# Recipe 58: Choosing Between Built-in Agent Types
 
 Claude Code has multiple built-in sub-agent types, and you're not sure which one to use for a given task.
 

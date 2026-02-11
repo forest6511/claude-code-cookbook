@@ -1,4 +1,4 @@
-# Recipe 61: Give Agents Persistent Memory
+# Recipe 61: Persistent Memory with MEMORY.md
 
 Sub-agents lose all knowledge between sessions. Every time a reviewer runs, it rediscovers the same project conventions from scratch.
 

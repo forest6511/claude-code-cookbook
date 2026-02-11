@@ -1,4 +1,4 @@
-# Recipe 54: Embed Reference Data in Skills
+# Recipe 54: Progressive Loading Architecture for Token Savings
 
 Your SKILL.md files are growing large. Loading the full content on every invocation wastes context window tokens.
 

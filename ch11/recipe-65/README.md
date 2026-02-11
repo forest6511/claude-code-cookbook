@@ -1,4 +1,4 @@
-# Recipe 65: Build a Test Runner Agent
+# Recipe 65: Background Test Execution and Report Aggregation
 
 Test suites take minutes to run, and you're blocked waiting for results.
 
