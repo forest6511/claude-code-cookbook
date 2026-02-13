@@ -2,9 +2,7 @@
 
 **100 Practical Recipes for MCP, Skills, Hooks & Sub-Agents**
 
-By Yosuke Morikawa
-
-Available on [Amazon Kindle](https://www.amazon.com/dp/B0FXXXXXXX).
+Available on [Amazon Kindle](https://www.amazon.com/dp/B0GM9QFGXJ).
 
 ## About This Repository
 
